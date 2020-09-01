@@ -1,4 +1,3 @@
-
 // validation interface and decorator
 export interface Validatable {
   value: string | number;
